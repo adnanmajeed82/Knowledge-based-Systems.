@@ -3,6 +3,22 @@ Knowledge-based-Systems.
 
 Course Description
 This course introduces the fundamental concepts, techniques, and tools used in Knowledge-Based Systems (KBS), a core area of Artificial Intelligence. The course focuses on knowledge representation, reasoning, inference mechanisms, expert systems, and real-world applications. Students will gain both theoretical understanding and practical exposure to designing and implementing knowledge-based solutions.
+
+Introduction: data, information and knowledge. Types of knowledge. The concept of 
+learning. Introduction to artificial intelligence and machine learning. Architecture of 
+KBS. Knowledge acquisition techniques, knowledge representation techniques, 
+inference strategies-data driven, goal-driven. Inference techniques-rule based systems, 
+prepositional and predicate logic, fuzzy logic, and evolutionary algorithms. KBS case 
+study(use appropriate programming language to build logic-driven application) 
+ 
+Course general Description:
+Knowledge-based systems has two essential elements which are the knowledge
+representation and the reasoning methods. To develop a KBS system, issues on knowledge
+engineering, various types of knowledge representations, reasoning strategies and KBS
+architecture are explored. Specifically, some selected advanced topics such as rule-based
+system, semantics networks, logic representation, frame-based system, model-based
+reasoning, case-based reasoning, qualitative reasoning, and examples of industrial
+applications will be covered
 ________________________________________
 Course Learning Outcomes (CLOs)
 After successful completion of this course, students will be able to:
