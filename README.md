@@ -108,3 +108,21 @@ Week 16: Limitations and Future Trends
 •	Ethical issues
 •	Future directions
 •	Final Examination
+
+Teaching Methodology
+•	Lectures
+•	Case studies
+•	Practical demonstrations
+•	Assignments and quizzes
+________________________________________
+Assessment Scheme 
+•	Quizzes / Assignments: 20%
+•	Mid-Term Exam: 30%
+•	Final Exam: 40%
+•	Class Participation: 10%
+________________________________________
+Recommended Textbooks
+1.	E. Turban, J. E. Aronson, and T.-P. Liang, Decision Support Systems and Intelligent Systems, Pearson.
+2.	P. Jackson, Introduction to Expert Systems, Addison-Wesley.
+3.	S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, Pearson.
+
