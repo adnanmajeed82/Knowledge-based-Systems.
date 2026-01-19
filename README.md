@@ -47,82 +47,42 @@ Course Outline
 15.	Applications of Knowledge-Based Systems
 16.	Limitations, Ethical Issues, and Future Trends
 ________________________________________
-Weekly Course Plan (16 Weeks)
-Week 1: Introduction
-•	Overview of Artificial Intelligence
-•	Definition and scope of Knowledge-Based Systems
-•	Examples and applications
-Week 2: KBS Architecture
-•	Components of KBS
-•	Knowledge base, inference engine, explanation system
-•	Development life cycle of KBS
-Week 3: Knowledge Representation
-•	Declarative vs procedural knowledge
-•	Characteristics of good knowledge representation
-Week 4: Logic-Based Representation
-•	Propositional logic
-•	Predicate logic
-•	Logical inference
-Week 5: Rule-Based Systems
-•	Production rules
-•	IF–THEN rules
-•	Rule formulation
-Week 6: Inference Mechanisms
-•	Reasoning strategies
-•	Pattern matching
-•	Conflict resolution
-Week 7: Forward and Backward Chaining
-•	Algorithms
-•	Comparison and use cases
-Week 8: Mid-Term Examination
-•	Course coverage from Weeks 1–7
-Week 9: Expert Systems
-•	Definition and characteristics
-•	Development of expert systems
-•	Case studies
-Week 10: Knowledge Acquisition
-•	Knowledge elicitation techniques
-•	Role of domain experts
-•	Bottleneck issues
-Week 11: Reasoning Under Uncertainty
-•	Uncertain knowledge
-•	Certainty factors
-•	Fuzzy logic basics
-Week 12: Probabilistic Reasoning
-•	Bayesian reasoning
-•	Bayesian networks
-•	Applications
-Week 13: Case-Based Reasoning (CBR)
-•	CBR cycle
-•	Similarity measures
-•	Applications
-Week 14: Ontologies and Semantic Web
-•	Ontology concepts
-•	RDF, OWL basics
-•	Knowledge sharing
-Week 15: Applications and Tools
-•	KBS tools and shells (e.g., CLIPS, Prolog)
-•	Medical, industrial, and business applications
-Week 16: Limitations and Future Trends
-•	Strengths and weaknesses of KBS
-•	Ethical issues
-•	Future directions
-•	Final Examination
+📘 Knowledge-Based Systems (KBS)
+Weekly Course Plan – 16 Weeks
+🧠 Course Overview
 
-Teaching Methodology
-•	Lectures
-•	Case studies
-•	Practical demonstrations
-•	Assignments and quizzes
-________________________________________
-Assessment Scheme 
-•	Quizzes / Assignments: 20%
-•	Mid-Term Exam: 30%
-•	Final Exam: 40%
-•	Class Participation: 10%
-________________________________________
-Recommended Textbooks
-1.	E. Turban, J. E. Aronson, and T.-P. Liang, Decision Support Systems and Intelligent Systems, Pearson.
-2.	P. Jackson, Introduction to Expert Systems, Addison-Wesley.
-3.	S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, Pearson.
+This course introduces the concepts, architecture, and applications of Knowledge-Based Systems (KBS) within Artificial Intelligence. It covers knowledge representation, inference mechanisms, expert systems, uncertainty handling, and modern semantic technologies.
 
+📅 Weekly Course Plan
+
+| **Week**    | **Topic**                   | **Key Contents**                                                                                                           |
+| ----------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Week 1**  | Introduction                | Overview of Artificial Intelligence<br>Definition & scope of Knowledge-Based Systems<br>Real-world examples & applications |
+| **Week 2**  | KBS Architecture            | Components of KBS<br>Knowledge Base, Inference Engine, Explanation System<br>KBS Development Life Cycle                    |
+| **Week 3**  | Knowledge Representation    | Declarative vs Procedural Knowledge<br>Characteristics of Good Knowledge Representation                                    |
+| **Week 4**  | Logic-Based Representation  | Propositional Logic<br>Predicate Logic<br>Logical Inference                                                                |
+| **Week 5**  | Rule-Based Systems          | Production Rules<br>IF–THEN Rules<br>Rule Formulation Techniques                                                           |
+| **Week 6**  | Inference Mechanisms        | Reasoning Strategies<br>Pattern Matching<br>Conflict Resolution                                                            |
+| **Week 7**  | Forward & Backward Chaining | Algorithms<br>Comparison<br>Use Cases                                                                                      |
+| **Week 8**  | **Mid-Term Examination**    | Course coverage: Weeks 1–7                                                                                                 |
+| **Week 9**  | Expert Systems              | Definition & Characteristics<br>Development Process<br>Case Studies                                                        |
+| **Week 10** | Knowledge Acquisition       | Knowledge Elicitation Techniques<br>Role of Domain Experts<br>Knowledge Bottleneck Issues                                  |
+| **Week 11** | Reasoning Under Uncertainty | Uncertain Knowledge<br>Certainty Factors<br>Fuzzy Logic Basics                                                             |
+| **Week 12** | Probabilistic Reasoning     | Bayesian Reasoning<br>Bayesian Networks<br>Applications                                                                    |
+| **Week 13** | Case-Based Reasoning (CBR)  | CBR Cycle<br>Similarity Measures<br>Applications                                                                           |
+| **Week 14** | Ontologies & Semantic Web   | Ontology Concepts<br>RDF & OWL Basics<br>Knowledge Sharing                                                                 |
+| **Week 15** | Applications & Tools        | KBS Tools & Shells (CLIPS, Prolog)<br>Medical, Industrial & Business Applications                                          |
+| **Week 16** | Limitations & Future Trends | Strengths & Weaknesses of KBS<br>Ethical Issues<br>Future Directions<br>**Final Examination**                              |
+
+
+🎓 Teaching Methodology
+📖 Lectures
+🧪 Case Studies
+💻 Practical Demonstrations
+📝 Assignments
+
+❓ Quizzes
+🛠 Tools & Technologies
+CLIPS
+Prolog
+Ontology Tools (RDF, OWL)
